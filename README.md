@@ -1,7 +1,8 @@
-
+# Bored App
+App for generating activities to do when bored.
 
 <p align="center">
-  <img width="450" height="500" src="Bored_app.jpg"
+  <img width="500" height="450" src="Bored_app.jpg"
 </p>
 
 ## <ins>What it does
@@ -10,7 +11,7 @@ The Bored List gives you a list of things to do when you are bored.  It is built
 
 ## <ins>How to Run
 
-Clone Repo into editor => Open terminal in VS Code or other editor => run "npx http-server" for live server
+Clone Repo into editor => Open terminal in VS Code or other editor => run "npm start" for live server
 
   Once installed it will start you with one activity you can do.  Click the "Load Another" button to load another activity.  Click the "Reset" button to reset the list.
 
